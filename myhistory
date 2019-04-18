@@ -1,0 +1,68 @@
+    1  clear
+    2  java --version
+    3  yum install java* -y
+    4  java --version
+    5  java -version
+    6  yum install jenkins* -y
+    7  wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
+    8  wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
+    9  jenkins -version
+   10  yum install jenkins* -y
+   11  jenkins -version
+   12  yum install jenkins -y
+   13  rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
+   14  yum install jenkins -y
+   15  jenkins -version
+   16  jenkins --version
+   17  jenkins --version
+   18  yum install jenkins
+   19  yum install jenkins
+   20  jenkins --version
+   21  jenkins -version
+   22  yum intsall jenkins* -y
+   23  mkdir test
+   24  yum install Jenkins* -y
+   25  clear
+   26  java -version
+   27  yum install jenkins
+   28  ls
+   29  service jenkins start
+   30  cat /var/lib/jenkins/secrets/initialAdminPassword
+   31  ls
+   32  mkdir /javaprogram
+   33  cd /javaprogram/
+   34  vi Helloworld.java
+   35  ls
+   36  javac Helloworld.java 
+   37  ls 
+   38  java HelloWorld
+   39  history
+   40  history > /root/myjenkins
+   41  which git
+   42  yum install git* -y
+   43  which git
+   44  yum install git -y
+   45  which git
+   46  git clone https://github.com/Prabhakar2012/myjavahelloworld.git
+   47  ls 
+   48  cd myjavahelloworld/
+   49  git status
+   50  cd ..
+   51  ls
+   52  cp Helloworld.java myjavahelloworld/
+   53  cd myjavahelloworld/
+   54  ls
+   55  git status
+   56  git add .
+   57  git commit -m "Addind Java.Helloworld"
+   58  git push
+   59  cd /var/lib/jenkins/workspace/Mapleproject
+   60  ls
+   61  cd -
+   62  ls -am
+   63  ls -al
+   64  vi index.html
+   65  git add .
+   66  git commit -m "Commiting jobs"
+   67  git push 
+   68  history > /root/myhistory
